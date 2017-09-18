@@ -1,0 +1,13 @@
+button {
+  background-image: url('http://maxpixel.freegreatpicture.com/static/photo/2x/Painting-Paint-Nature-Watercolour-Green-Watercolor-1317812.jpg');
+  background-position: center;
+  opacity: 0.7;
+  color: white;
+}
+
+.recipe {
+  background-image: url('https://ak2.picdn.net/shutterstock/videos/2845492/thumb/1.jpg');
+  background-position: center;
+  opacity: 0.7;
+  /*color: white;*/
+}

@@ -1,0 +1,13 @@
+Zelda Recipe Project
+--------------------
+Used
+--------------------
+Angular CLI for project. Command line Interface. The CLI uses Webpack behind the scenes to bundle all your JS and CSS files and adds them to index.html.
+
+NodeJs
+
+Typescript and compiled to Javascript.
+
+Bootstrap.
+
+Components.

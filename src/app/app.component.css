@@ -1,0 +1,32 @@
+/*.rows {
+  background-color: darkblue;
+}*/
+
+.footer {
+  background-image: url('https://images8.alphacoders.com/819/thumb-1920-819212.jpg');
+  /*background-position: bottom;*/
+  background-color: honeydew;
+  opacity: 0.7;
+}
+
+
+/*.hearts {
+  height: 40px;
+  width: 100px;
+  background-color: honeydew;
+}*/
+
+.container {
+  padding-top: 70px;
+}
+
+.panel {
+  margin-top: 200px;
+}
+
+
+/*.music {
+  background-image: url('https://content.ebgames.com.au/website/images/detail/217391_detail_03.jpg');
+  background-position: left;
+  background-size: cover;
+}*/

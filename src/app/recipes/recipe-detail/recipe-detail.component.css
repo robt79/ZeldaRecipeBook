@@ -1,0 +1,47 @@
+/*.border {
+  border-style: solid;
+  border-color: red;
+  max-width: 300px
+}*/
+
+img {
+  background-image: url('https://ak2.picdn.net/shutterstock/videos/2845492/thumb/1.jpg');
+  opacity: 0.7;
+}
+
+button {
+  background-image: url('https://images8.alphacoders.com/819/thumb-1920-819212.jpg');
+  opacity: 0.7;
+  color: white;
+}
+
+li {
+  background-image: url('https://ak2.picdn.net/shutterstock/videos/2845492/thumb/1.jpg');
+  background-position: right;
+  opacity: 0.8;
+  color: black;
+}
+
+
+/*a {
+  background-image: url('https://images8.alphacoders.com/819/thumb-1920-819212.jpg');
+  background-position: top;
+  opacity: 0.7;
+}*/
+
+.name {
+  color: white;
+}
+
+
+/*.border {
+  border-style: solid;
+  color: red;
+  width: 300px;
+  max-height: 300px;
+}*/
+
+.description {
+  color: white;
+  padding-top: 10px;
+}

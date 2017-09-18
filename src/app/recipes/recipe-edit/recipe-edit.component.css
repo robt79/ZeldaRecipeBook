@@ -1,0 +1,49 @@
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.save {
+  background-image: url('http://maxpixel.freegreatpicture.com/static/photo/2x/Painting-Paint-Nature-Watercolour-Green-Watercolor-1317812.jpg');
+  background-position: top;
+  opacity: 0.7;
+}
+
+.add {
+  background-image: url('http://maxpixel.freegreatpicture.com/static/photo/2x/Painting-Paint-Nature-Watercolour-Green-Watercolor-1317812.jpg');
+  background-position: top;
+  opacity: 0.7;
+}
+
+.x, .cancel {
+  background-image: url('https://i.pinimg.com/236x/71/d9/5a/71d95a697b04461c9c1a7eebc0f79afd--coral-watercolor-watercolor-texture.jpg');
+  background-position: center;
+  opacity: 0.7;
+}
+
+input, textarea {
+  background-image: url('https://ak2.picdn.net/shutterstock/videos/2845492/thumb/1.jpg');
+  /*background-blend-mode: lighten;*/
+  background-position: right;
+  opacity: 0.7;
+}
+
+img {
+  background-image: url('https://ak2.picdn.net/shutterstock/videos/2845492/thumb/1.jpg');
+  background-position: right;
+  opacity: 0.7;
+}
+
+
+/*img {
+  opacity: 0.7;
+  height: 200px;
+}*/
+
+.cook {
+  opacity: 1;
+}
+
+
+/*label {
+  color: black;
+}*/
